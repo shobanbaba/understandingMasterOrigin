@@ -1,0 +1,4 @@
+This file is created in local repository named "Understanding master and origin"
+
+After running "git init" to initialize empty git repository, branch 'master' is created 
+(verified by running git status)
